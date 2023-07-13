@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-svg&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-svg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthony-svg" alt="anthony-svg" /></a> </p>
+- 🌱 I’m currently learning **Ionic and React**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Ionic**
+- 👨‍💻 All of my projects are available at [https://portafolio-59d9c.web.app/](https://portafolio-59d9c.web.app/)
 
 - 📫 How to reach me **anthony.melendez07.am@gmail.com**
 
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-svg&show_icons=true&locale=en" alt="anthony-svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-svg&" alt="anthony-svg" /></p>
-
