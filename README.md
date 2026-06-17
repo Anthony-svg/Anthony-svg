@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-svg&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-svg" /> </p>
 
-- 🌱 I’m currently learning **Ionic and React**
+- 🌱 I’m currently learning **.NET and Angular 21**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-59d9c.web.app/](https://portafolio-59d9c.web.app/)
 
